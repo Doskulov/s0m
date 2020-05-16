@@ -1,0 +1,11 @@
+"Graphics"
+{
+    "1"
+    {
+        "file"        "banner.png"
+    }
+    "2"
+    {
+        "file"        "steamgroup.png"
+    }
+}
